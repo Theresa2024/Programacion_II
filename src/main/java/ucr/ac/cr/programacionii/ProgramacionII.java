@@ -7,6 +7,6 @@ package ucr.ac.cr.programacionii;
 public class ProgramacionII {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hola mundo");
     }
 }
